@@ -8,7 +8,7 @@ Predict the heart attack for the organisation WHO (World Health Organisation), u
 
 ## **Task 4** : Fit your values with arange() using feature scaling.
 ## **Task 5** : Check your model's accuracy and precision using confusion matrix.
-## Project
+## Project Approach
 ![image](https://github.com/Whidevil/Logistic-Regression-Project/assets/89446089/63138ef0-862b-45c5-b614-e5b53454dfc1)
 ## Project Accuracy
 ![image](https://github.com/Whidevil/Logistic-Regression-Project/assets/89446089/29fd14e6-3729-42e8-9286-92fa8e723138)
